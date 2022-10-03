@@ -1,4 +1,6 @@
-# Simple Resume React project(Change data accordingly in src/data/dummy.js folder)
+# Simple Resume React project(Change data accordingly in src/data/dummy.js folder) made during hacktoberfest22 for contributing to a repo
+
+##OUTPUT: https://drive.google.com/file/d/1TQMjOuvfUkrvJYNxE1OZO08kB77ivQX7/view?usp=sharing
 
 Steps to run locally
 
